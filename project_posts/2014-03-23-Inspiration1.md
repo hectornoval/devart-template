@@ -4,8 +4,11 @@ Inspiration 1
 
 - Coined by Russian painter Kazimir Malevich in 1915, Suprematism declared a break with traditional modes of representation, embracing geometric abstraction and aiming to revolutionize artistic practice with an autonomous visual language of "pure artistic feeling." Malevich stridently announced Suprematism's arrival with the staging of "The last Futurist exhibition of paintings," self-consciously positioning himself against the reigning avant-garde movements of the time and declaring a total rupture with the art of the past. It was there that Malevich displayed his seminal Black Square painting (1915), which realized his idea of the "zero form" of art, a “pure” art that excluded figurative imagery in the pursuit of capturing profound, abstract ideas such as infinity and the sublime. 
  
+[MOMA / Oxford University Press](http://www.moma.org/collection/theme.php?theme_id=10202 "MOMA / Oxford University Press")
+[wikipedia](http://en.wikipedia.org/wiki/Suprematism "wikipedia")
 
-[suprematism](http://hectornoval.com/experiment/metametamalevich.html "méta méta malevich")
+
+
 
 
 Malevich
