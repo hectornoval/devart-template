@@ -17,10 +17,34 @@ Art evolves trough technology. Jean Tinguely redid Malevich paint with 'movement
 [méta méta malevich](http://hectornoval.com/experiment/metametamalevich.html "méta méta malevich")
 
 ## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
+
+a.surface box 
 ```
-function test() {
-  console.log("Printing a test");
+.fig1 {
+	position: absolute;
+	background-color: white;
+	width: 45.5%;
+	height: 1.3%;
+	top: 24.66%;
+	left: 8.3%;
+	display: inline-block;
+	box-shadow: 0px 45px 19px rgba(0, 0, 0, 0.54);
+}
+```
+b. box rotation 
+```
+@keyframes rotate {
+from {
+ transform: rotate(0deg);
+}
+to {
+ transform: rotate(360deg);
+}
+```
+c. box animation 
+```
+.animated {
+animation: rotate 600s linear infinite;
 }
 ```
 ## Links to External Libraries
