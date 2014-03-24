@@ -1,14 +1,11 @@
 {
     "technologies": {
-              "languages": [
-            "html",
-            "css"
-        ],
+
         "apis": [
             "insert apis"
         ],
         "platforms": [
-            "web"
+            "web","mobile"
         ],
         "toolkits": [
             "insert toolkits"
