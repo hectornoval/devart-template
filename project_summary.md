@@ -1,8 +1,8 @@
 # Project Title
 Méta-Méta-Malevich
 
-## Authors
-- Héctor Noval - github.com/hectornoval
+## Author
+Héctor Noval - github.com/hectornoval
 
 ## Description
 
@@ -13,9 +13,8 @@ Art evolves trough technology. Jean Tinguely redid Malevich paint with 'movement
 
 
 ## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
 
-[view online](http://hectornoval.com/experiment/metametamalevich.html "view online")
+[méta méta malevich](http://hectornoval.com/experiment/metametamalevich.html "méta méta malevich")
 
 ## Example Code
 NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
