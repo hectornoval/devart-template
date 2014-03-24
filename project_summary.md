@@ -1,5 +1,4 @@
-# Project Title
-Méta-Méta-Malevich
+# Méta-Méta-Malevich
 
 ## Author
 Héctor Noval - github.com/hectornoval
