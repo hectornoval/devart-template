@@ -10,13 +10,7 @@ Inspiration 1
 
 Malevich
 
-https://d1ycxz9plii3tb.cloudfront.net/additional_images/5069e78396d4ad000200066c/large.jpg
+![Malevich](https://d1ycxz9plii3tb.cloudfront.net/additional_images/5069e78396d4ad000200066c/large.jpg "Malevich")
 
-Khidekel
-
-http://newsfeed.kosmograd.com/images/khidekel/khidekel_11.jpg
-
-El_Lissitzky
-
-http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Lazar_El_Lissitzky_-_Kestnermappe_Proun%2C_Rob._Levnis_and_Chapman_GmbH_Hannover_-4_-_Google_Art_Project.jpg/600px-Lazar_El_Lissitzky_-_Kestnermappe_Proun%2C_Rob._Levnis_and_Chapman_GmbH_Hannover_-4_-_Google_Art_Project.jpg
+![Malevich](https://d1ycxz9plii3tb.cloudfront.net/additional_images/5069e79ad770f600020006ef/large.jpg "Malevich")
 
