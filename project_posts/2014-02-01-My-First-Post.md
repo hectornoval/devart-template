@@ -1,7 +1,22 @@
 Inspiration 1
 
+- “Art no longer cares to serve the state and religion, it no longer wishes to illustrate the history of manners, it wants to have nothing further to do with the object, as such, and believes that it can exist, in and for itself, without "things" (that is, the "time-tested well-spring of life").” Kasimir Malevich.
+
+- Coined by Russian painter Kazimir Malevich in 1915, Suprematism declared a break with traditional modes of representation, embracing geometric abstraction and aiming to revolutionize artistic practice with an autonomous visual language of "pure artistic feeling." Malevich stridently announced Suprematism's arrival with the staging of "The last Futurist exhibition of paintings," self-consciously positioning himself against the reigning avant-garde movements of the time and declaring a total rupture with the art of the past. It was there that Malevich displayed his seminal Black Square painting (1915), which realized his idea of the "zero form" of art, a “pure” art that excluded figurative imagery in the pursuit of capturing profound, abstract ideas such as infinity and the sublime. 
+ 
+
+[suprematism](http://hectornoval.com/experiment/metametamalevich.html "méta méta malevich")
 
 
-![Khidekel](http://newsfeed.kosmograd.com/images/khidekel/khidekel_11.jpg "Khidekel")
+Malevich
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+https://d1ycxz9plii3tb.cloudfront.net/additional_images/5069e78396d4ad000200066c/large.jpg
+
+Khidekel
+
+http://newsfeed.kosmograd.com/images/khidekel/khidekel_11.jpg
+
+El_Lissitzky
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Lazar_El_Lissitzky_-_Kestnermappe_Proun%2C_Rob._Levnis_and_Chapman_GmbH_Hannover_-4_-_Google_Art_Project.jpg/600px-Lazar_El_Lissitzky_-_Kestnermappe_Proun%2C_Rob._Levnis_and_Chapman_GmbH_Hannover_-4_-_Google_Art_Project.jpg
+
