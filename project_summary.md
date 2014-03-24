@@ -46,13 +46,8 @@ c. box animation
 animation: rotate 600s linear infinite;
 }
 ```
-## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
-
-[Example Link](http://www.google.com "Example Link")
 
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
 ![cover image](project_images/cover.jpg?raw=true "cover image")
 
