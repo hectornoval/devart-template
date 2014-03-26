@@ -4,13 +4,13 @@
             "insert apis"
         ],
         "platforms": [
-            "web"
+           "Chrome app","web"
         ],
         "toolkits": [
             "insert toolkits"
         ]
     },
     "themes": [
-        "suprematism"
+        "suprematism","geometric"
     ]
 }
