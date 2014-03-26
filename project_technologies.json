@@ -1,10 +1,15 @@
 {
     "technologies": {
+
         "apis": [
             "insert apis"
         ],
         "platforms": [
+<<<<<<< HEAD
            "Chrome app","web"
+=======
+            "web","mobile"
+>>>>>>> FETCH_HEAD
         ],
         "toolkits": [
             "insert toolkits"
