@@ -5,11 +5,7 @@
             "insert apis"
         ],
         "platforms": [
-<<<<<<< HEAD
-           "Chrome app","web"
-=======
-            "web","mobile"
->>>>>>> FETCH_HEAD
+           "Chrome app","web","mobile"
         ],
         "toolkits": [
             "insert toolkits"
