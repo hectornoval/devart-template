@@ -5,7 +5,7 @@
             "insert apis"
         ],
         "platforms": [
-           "google chrome","web","mobile"
+           "Chrome Apps","web","mobile"
         ],
         "toolkits": [
             "insert toolkits"
