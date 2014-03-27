@@ -2,7 +2,7 @@
 Undeterminated surface box with seven geometric shapes in pure white
 
 ## Author
-Héctor Noval - github.com/hectornoval
+Héctor Noval - [noval](github.com/hectornoval "noval")
 
 
 ## Description
