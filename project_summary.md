@@ -10,7 +10,7 @@ Héctor Noval - [noval](github.com/hectornoval "noval")
 Homage to Jean Tinguely homage to Kasimir Malevich. Undeterminated surface box with seven geometric shapes in pure white. 
 The elements rotate at different speeds producing an ongoing series of new compositions. Each image is new and virtually unrepeatable. 
 
-Art evolves through technology. Jean Tinguely rethought Malevich's paint with 'movement' so it would become infinite. Based on his principles I redid the 'méta' but without the constraints of format. You can view it either projected or reflected, in a small or big screen without losing the primary concept. 
+Art evolves through technology. Jean Tinguely rethought Malevich's paint with 'movement' so it would become infinite. Based on his principles I redid the 'méta' but without the constraints of format. You can view it either projected or reflected, in a small or big screen without losing the approach of the painting: forms that pull and push without relying on any reference to the physical world.
 
 
 ## Link to Prototype
